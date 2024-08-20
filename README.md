@@ -1,1 +1,1 @@
-![Minishell](https://github.com/LucasDatilioCarderelli/42Cursus/blob/master/img/minishell.mp4)
+https://github.com/user-attachments/assets/eb1546a3-592c-4490-a8a6-b57f142f8438
